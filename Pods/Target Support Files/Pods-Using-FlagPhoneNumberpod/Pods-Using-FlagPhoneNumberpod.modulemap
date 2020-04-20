@@ -1,0 +1,6 @@
+framework module Pods_Using_FlagPhoneNumberpod {
+  umbrella header "Pods-Using-FlagPhoneNumberpod-umbrella.h"
+
+  export *
+  module * { export * }
+}
